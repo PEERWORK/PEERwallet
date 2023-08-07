@@ -151,7 +151,7 @@ const Participate = () => (
           </h2>
 
           <a
-            href="https://app.aragon.org/#/daos/mumbai/0xd41cf1ffd4d5075e492773466059086ee0d13dec/dashboard"
+            href="https://pee-rwallet-zkeq.vercel.app/landing/2"
             target="_blank"
             className="m-auto w-52 btn border-none text-black bg-yellow-200 hover:bg-yellow-400"
           >
