@@ -35,7 +35,7 @@ const connectors = connectorsForWallets([
           metadata: {
             description: "Bonjour, Paris!",
             icons: ["https://peer-wallet-landing.vercel.app/favicon.ico"],
-            url: "https://peer-wallet-landing.vercel.app",
+            url: "https://pee-rwallet-zkeq.vercel.app",
             name: "2nd arrondissement",
           },
         },
